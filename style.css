@@ -1,0 +1,110 @@
+.navbar {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #021331;
+    color: #87cefa;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    
+}
+
+.nav-links {
+    display: flex;                  
+    list-style: none;               
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li {
+    margin-left: 40px;
+}
+
+.nav-links a {
+    color: #87cefa;                 
+    text-decoration: none;         
+    font-size: 30px;
+    transition: color 0.3s ease;
+}    
+
+.mainpage {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #87cefa;
+    color: #021331;
+    display: flex;
+    flex-direction: column; 
+    margin: 0;
+    padding: 15px;
+}
+
+.mainpage h1 {
+    color: #021331;                          
+    font-size: 60px;
+    transition: color 0.3s ease;
+    justify-content: center;  
+    align-items: center;
+    text-align: center;   
+}
+
+.mainpage h2 {
+    color: #021331;                          
+    font-size: 30px;
+    transition: color 0.3s ease;
+    margin-bottom: 0;          
+}
+
+.mainpage h3 {
+    color: #021331;                          
+    font-size: 25px;
+    transition: color 0.3s ease;
+    margin-bottom: 0;          
+}
+
+.mainpage p {
+    color: #021331;                          
+    font-size: 20px;
+    transition: color 0.3s ease;
+    margin-bottom: 0;          
+}
+
+.mainpage img {
+    justify-content: center;  
+    align-items: center;
+    text-align: center; 
+}
+
+.main-quem p {
+    color: #021331;                          
+    font-size: 20px;
+    transition: color 0.3s ease;
+    margin-bottom: 0;          
+}
+
+.footerbar {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #021331;
+    color: #87cefa;
+    display: flex;
+    flex-direction: column; 
+    padding: 15px;
+}
+
+.footerbar h2 {
+    color: #87cefa;                          
+    font-size: 30px;
+    transition: color 0.3s ease;
+    margin-bottom: 0;          
+}
+
+.footerbar li {
+    display: flex;                  
+    list-style: none;               
+    margin: 0;
+    padding: 0;
+}
+
+.footerbar a {
+    color: #87cefa;                 
+    text-decoration: none;         
+    font-size: 20px;
+    transition: color 0.3s ease;
+}    
